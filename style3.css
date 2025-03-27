@@ -3,14 +3,14 @@
   height: 100%;
 }
 .header {
-  background-color: #F1F1F1;
+  background-color: #11;
   text-align: center;
-  padding: 20px;
+  padding: 50px;
 }
 /* The navbar container */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: blue;
 }
 
 /* Navbar links */
@@ -19,7 +19,7 @@
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 30px 25x;
   text-decoration: none;
 }
 
@@ -36,10 +36,10 @@
 .content
 {
   float: left;
-  padding: 10px;
+  padding: 90px;
 }
 .content.left {
-  width: 30%;
+  width: 10%;
 }
 
 .content.right {
